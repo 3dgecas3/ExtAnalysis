@@ -74,7 +74,7 @@ $ git clone https://github.com/Tuhinshubhra/ExtAnalysis
 $ cd ExtAnalysis
  ```
  ```
-$ pip3 install -r requirements.txt
+$ pip3 install -r requirements.txt --use-deprecated=backtrack-on-build-failures
  ```
 
 For proper analysis don't forget to add your virustotal api.
@@ -143,3 +143,4 @@ Attribution to all the third-party libraries used can be found in the [CREDITS](
 
 <br>
 <h4 align="center">Copyright (C) 2019 - 2022 Tuhinshubhra</h4>
+<h4 altered, ever so slightly, by 3dgecas3 in 2023</h4>
